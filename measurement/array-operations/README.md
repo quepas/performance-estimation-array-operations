@@ -1,7 +1,7 @@
 # Array operations
 
-This directory contains 17 functions with array operations written in three languages: Matlab/Octave, Scilab and Python.
-Each array operation represents instruction used in the [analyzed codes](../examles/README.md).
+This directory contains 17 functions with array operations written in three languages: Matlab/Octave, Scilab, and Python.
+Each array operation represents instruction used in the [analyzed codes](../analyzed-codes/README.md).
 Instructions that appear in two versions e.g. `vadd2`, `vadd3` are used for obtaining _one-sided coupling_ (see paper).
 
 ## List of tested array operations
