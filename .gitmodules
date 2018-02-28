@@ -1,0 +1,9 @@
+[submodule "third-party/mPAPI"]
+	path = third-party/mPAPI
+	url = https://github.com/quepas/mPAPI
+[submodule "third-party/oPAPI"]
+	path = third-party/oPAPI
+	url = https://github.com/quepas/oPAPI
+[submodule "third-party/sPAPI"]
+	path = third-party/sPAPI
+	url = https://github.com/quepas/sPAPI
