@@ -9,7 +9,8 @@ sudo apt-get update
 sudo apt-get install papi-tools
 ```
 
-Wrappers for PAPI for MATLAB, Octave, and Scilab is available in directory `tools/`
+Wrappers for PAPI for MATLAB ([mPAPI](https://github.com/quepas/mPAPI)), Octave ([oPAPI](https://github.com/quepas/oPAPI)), and Scilab ([sPAPI](https://github.com/quepas/sPAPI)) are available in the directory `third-party/`.
+Instruction on their compilation and installation are included in corresponding repository.
 
 ### MATLAB
 

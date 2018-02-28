@@ -4,11 +4,12 @@ A complementary materials and artifacts to the publication "Performance Estimati
 
 ## Table of contents
 
+* [Installation](doc/INSTALLATION.md)
 * [Paper experiments](paper-experiments/README.md)
 * [Measurement](measurement/README.md)
   * [Array operations](measurement/array-operations/README.md)
   * [Analyzed codes](measurement/analyzed-codes/README.md)
-* [Installation](doc/INSTALLATION.md)
+* [Estimation](estimation/README.md)
 
 ## Requirements
 
