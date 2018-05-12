@@ -1,6 +1,6 @@
 # Performance Estimation of Array Operations through Coupling
 
-A complementary materials and artifacts to the publication "Performance Estimation of Array Operations through Coupling" Kiepas, Tadonki, Ancourt, Koźlak [in review].
+A complementary materials and artifacts to the publication "Performance Estimation of Array Operations through Coupling" Kiepas, Tadonki, Ancourt, Koźlak [rejected].
 
 ## Table of contents
 
